@@ -1,0 +1,25 @@
+<! You logged in as: mayartmal !>
+Options   :
+
+<          Input         >
+--------------------------
+
+--------------------------
+
+<          tChat         >
+--------------------------
+< mayartmal connected >
+mayartmal		 > text_str
+mayartmal		 > gdgdgd
+< styulenev connected >
+styulenev		 > qwer
+styulenev		 > qwer
+styulenev		 > qwer
+styulenev		 > asdfasdfasdfwerqweasdf
+styulenev		 > asdfasdfasdfwerqweasdf
+styulenev		 > )
+styulenev		 > )
+mayartmal		 > test
+mayartmal		 > privet
+styulenev		 > privet. How are you?
+styulenev		 > privet. How are you?
